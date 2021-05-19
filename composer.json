@@ -1,0 +1,22 @@
+{
+    "name": "jacobfitz/steamauth",
+    "description": "",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jacob Fitzpatrick",
+            "email": "contact@jacobfitzpatrick.co.uk"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "iignatov/lightopenid": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "SteamAuth\\": "src/"
+        }
+    }
+}
