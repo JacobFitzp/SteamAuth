@@ -1,6 +1,6 @@
 {
     "name": "jacobfitz/steamauth",
-    "description": "",
+    "description": "Implement Steam login within your PHP project",
     "type": "library",
     "license": "MIT",
     "authors": [
