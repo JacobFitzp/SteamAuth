@@ -4,6 +4,14 @@ SteamAuth allows you to implement steam sign-in within your PHP project.
 \
 It is simple, fast, and secure...
 
+## Installation
+
+Install with composer:
+
+```
+composer require jacobfitz/steamauth
+```
+
 ## Request
 To log a user in you must first make a request.
 
